@@ -119,10 +119,3 @@ Aby otworzyć interaktywny notatnik badawczy:
 jupyter notebook notebooks/analiza_sentymentu.ipynb
 ```
 
-## Zadania dla studenta
-
-W projekcie pozostawiono niekompletne fragmenty kodu oznaczone komentarzem TODO, które student musi samodzielnie uzupełnić w ramach pracy dyplomowej:
-
-* Rozszerzenie preprocesora o definicję etykiet dla trzeciej klasy (Sarkazm/Troll) bazującej na wyliczonym współczynniku Ratio.
-* Implementacja treningu i ewaluacji modelu trójklasowego (regresji logistycznej z obsługą wielu klas) na bazie wektoryzacji TF-IDF.
-* Przeprowadzenie walidacji krzyżowej dla zaimplementowanego modelu trójklasowego oraz analiza uzyskanej stabilności wyników (ze szczególnym uwzględnieniem wartości F1-score dla nowej klasy).
